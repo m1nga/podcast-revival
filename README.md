@@ -55,3 +55,9 @@ The exact wheel was installed with dependencies into a fresh directory outside t
 ## Author
 
 Built by [Ming](https://github.com/m1nga). Runtime and skill behavior are maintained together; user materials, private scripts and provider receipts remain outside this public package.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+A conversation or video can be a work in progress too. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=podcast-revival) to see what people are making, or share a piece you are ready for others to hear and respond to.
+<!-- sidecourt-referral:end -->
